@@ -1,0 +1,24 @@
+.tweet {
+  border: 4px solid powderblue;
+  padding: 50px;
+  border-radius: 4px;
+  margin: 20px 20%;
+  font-family: verdana;
+  font-size: 100%;
+}
+
+.username {
+  color: #12c08f;
+  font-family: courier;
+  display: inline-block;
+  margin: 0 10px;
+  font-size: 60%;
+}
+
+.date {
+  color: #b1d51e;
+  font-family: courier;
+  display: inline-block;
+  margin: 0 10px;
+  font-size: 60%;
+}
